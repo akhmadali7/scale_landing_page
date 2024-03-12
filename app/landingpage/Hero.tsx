@@ -12,7 +12,7 @@ import Clutch from '../../public/assets/Clutch.svg'
 
 export function Hero() {
     return (
-        <div className="pt-4 lg:pt-10">
+        <div className="pt-4 lg:pt-16 pb-8">
             <div className="px-5 lg:px-[100px]">
                 <h1 className="font-myserif text-center text-[32px] leading-10 font-medium text-slate-900 mx-auto md:text-[48px] md:leading-[56px] lg:text-[64px] lg:leading-[72px] md:px-10 lg:px-[70px] xl:px-[250px] 2xl:text-[86px] 2xl:leading-[90px]">Start monitoring your website like a pro
                 </h1>

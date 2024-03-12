@@ -9,7 +9,7 @@ import PinkButton from '../../public/assets/pink-button.svg'
 
 export function Features() {
     return (
-        <div className='flex flex-col pb-10 pt-20' id='features'>
+        <div className='flex flex-col pb-10 ' id='features'>
 
             <div className="flex flex-col gap-y-14 mx-auto items-center lg:pt-[50px] lg:flex-row lg:items-end lg:gap-x-6 xl:items-start">
                 <div className='pt-14 md:w-1/2 lg:pt-14 lg:pr-14'>
@@ -59,8 +59,6 @@ export function Features() {
                     <p className='pt-6 text-slate-700  lg:text-[18px]'>
                         Optimize your website for success by monitoring its uptime and performance round the clock, ensuring it`s always available and responsive to your visitors.
                     </p>
-
-
                     <div className='flex flex-row w-full items-center gap-x-14 pt-6 '>
                         <div className='w-auto'>
                             <h1 className='text-xl lg:text-2xl font-medium'>100+</h1>
