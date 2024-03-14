@@ -70,13 +70,13 @@ export function Pricing() {
                         <h3 className='text-medium pb-4'>Perfect for big companies</h3>
                         <h2 className='py-4 text-3xl font-bold text-slate-800'>Custom</h2>
                         <p>
-                            Scale's Enterprise offering is designed to cater to the unique requirements of large organizations and enterprises with complex monitoring needs.
+                            Scale`s Enterprise offering is designed to cater to the unique requirements of large organizations and enterprises with complex monitoring needs.
                         </p>
                         <p className='pt-6'>
-                            Benefit from custom integrations, dedicated account management, and personalized support to address your organization's most pressing challenges.
+                            Benefit from custom integrations, dedicated account management, and personalized support to address your organization`s most pressing challenges.
                         </p>
                         <p className='pt-6'>
-                            Scale's Enterprise plan empowers you to adjust your monitoring strategy as your business evolves, ensuring seamless performance across all digital fronts.
+                            Scale`s Enterprise plan empowers you to adjust your monitoring strategy as your business evolves, ensuring seamless performance across all digital fronts.
                         </p>
                     </div>
                     <button className="text-center text-indigo-700 bg-white rounded-md w-full font-semibold py-3">
